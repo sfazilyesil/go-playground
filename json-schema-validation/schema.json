@@ -1,0 +1,32 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "required": ["s","i","b","f","t", "innerStruct", "es"],
+  "properties": {
+    "s": {"type": "string", "minLength": 2, "maxLength": 5},
+    "i": {"type": "number", "minimum": 0, "maximum":999},
+    "b": {"type": "boolean"},
+    "f": {"type": "number", "minimum": 0, "maximum":999.99, "exclusiveMinimum":true},
+    "t": {"type": "string", "format":"date-time"},
+
+    "es": {"enum": ["json", "xml", "protobuf", "avro"]},
+    "ei": {"enum": [0, 1]},
+
+    "ns": {"type": ["null", "string"], "maxLength":3},
+    "ni": {"type": ["null", "number"], "minimum":-1, "maximum":999999},
+    "nb": {"type": ["null", "boolean"]},
+    "nf": {"type": ["null", "number"], "minimum":0, "maximum":100, "exclusiveMaxsimum":true},
+    "nt": {"type": ["null", "string"], "format":"date-time"},
+
+    "sliceOfString": {"type":["array"], "items":{"type":"string"}, "minItems":1, "uniqueItems":true},
+    "sliceOfInt": {"type":["null", "array"], "items":{"type":"number"}},
+
+    "innerStruct": {
+      "type": "object",
+      "properties": {
+        "x": {"type": "string"},
+        "y": {"type": "number", "minimum": 9}
+      }
+    }
+  }
+}
