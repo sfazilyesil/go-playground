@@ -1,0 +1,3 @@
+package morainegomock
+
+func needThisFake() {}

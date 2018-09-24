@@ -1,0 +1,85 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/jvshahid/mock4go",
+			"repository": "https://github.com/jvshahid/mock4go",
+			"vcs": "git",
+			"revision": "718e429c7624c1994d1a9a43a5141288c67ae5b0",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/kr/pretty",
+			"repository": "https://github.com/kr/pretty",
+			"vcs": "git",
+			"revision": "cfb55aafdaf3ec08f0db22699ab822c50091b1c4",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/kr/pty",
+			"repository": "https://github.com/kr/pty",
+			"vcs": "git",
+			"revision": "2c10821df3c3cf905230d078702dfbe9404c9b23",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/kr/text",
+			"repository": "https://github.com/kr/text",
+			"vcs": "git",
+			"revision": "7cafcd837844e784b526369c9bce262804aebc60",
+			"branch": "main"
+		},
+		{
+			"importpath": "github.com/maraino/go-mock",
+			"repository": "https://github.com/maraino/go-mock",
+			"vcs": "git",
+			"revision": "341395fb6b2653a9891dd7f5af8795c030509c30",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/stretchr/testify/assert",
+			"repository": "https://github.com/stretchr/testify",
+			"vcs": "git",
+			"revision": "e68c5c520826657b647fb9090f1620f8862e7b72",
+			"branch": "master",
+			"path": "assert",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/stretchr/testify/mock",
+			"repository": "https://github.com/stretchr/testify",
+			"vcs": "git",
+			"revision": "e68c5c520826657b647fb9090f1620f8862e7b72",
+			"branch": "master",
+			"path": "/mock",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/stretchr/testify/vendor/github.com/davecgh/go-spew/spew",
+			"repository": "https://github.com/stretchr/testify",
+			"vcs": "git",
+			"revision": "e68c5c520826657b647fb9090f1620f8862e7b72",
+			"branch": "master",
+			"path": "vendor/github.com/davecgh/go-spew/spew",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/stretchr/testify/vendor/github.com/pmezard/go-difflib/difflib",
+			"repository": "https://github.com/stretchr/testify",
+			"vcs": "git",
+			"revision": "e68c5c520826657b647fb9090f1620f8862e7b72",
+			"branch": "master",
+			"path": "vendor/github.com/pmezard/go-difflib/difflib",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/stretchr/testify/vendor/github.com/stretchr/objx",
+			"repository": "https://github.com/stretchr/testify",
+			"vcs": "git",
+			"revision": "e68c5c520826657b647fb9090f1620f8862e7b72",
+			"branch": "master",
+			"path": "vendor/github.com/stretchr/objx",
+			"notests": true
+		}
+	]
+}

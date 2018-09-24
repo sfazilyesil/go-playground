@@ -1,0 +1,3 @@
+package testify
+
+func needThisFake() {}
