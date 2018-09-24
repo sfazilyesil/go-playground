@@ -2,137 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2061820f-1ef9-49bf-b843-45d76df5f9c5" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/go-playground.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/encoding-formats/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/encoding-formats/avro/main.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/encoding-formats/main.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/encoding-formats/protocol-buffers/adressbook.pb.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/encoding-formats/protocol-buffers/adressbook.proto" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/encoding-formats/protocol-buffers/sm/simplemessage.pb.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/encoding-formats/protocol-buffers/sm/simplemessage.proto" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/encoding-formats/strings/main.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/README_tr.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/answerer.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/interview.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/moraine-go-mock/fake.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/moraine-go-mock/interview_suite_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/moraine-go-mock/interview_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/moraine-go-mock/mocks/answerer.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/moraine-go-mock/mocks/interviewMaker.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/moraine-go-mock/moraine-go-mock.test" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/questioner.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/testify-mock/fake.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/testify-mock/interview_suite_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/testify-mock/interview_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/testify-mock/mocks/answerer.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/testify-mock/mocks/interviewMaker.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/jvshahid/mock4go/api.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/jvshahid/mock4go/instrument.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/jvshahid/mock4go/instrument_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/jvshahid/mock4go/mock4go/mock4go.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/jvshahid/mock4go/src/test/mock4go_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/jvshahid/mock4go/src/test/no_functions.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/jvshahid/mock4go/src/test/test_helper.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/jvshahid/mock4go/src/test_failing/doc.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/jvshahid/mock4go/src/test_failing/failing_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/jvshahid/mock4go/src/testc/sin.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/jvshahid/mock4go/src/testc/sin_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/jvshahid/mock4go/src/testnomock/somefunctions.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/jvshahid/mock4go/src/testnomock/somefunctions_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/jvshahid/mock4go/utils.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/kr/pretty/License" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/kr/pretty/diff.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/kr/pretty/diff_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/kr/pretty/example_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/kr/pretty/formatter.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/kr/pretty/formatter_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/kr/pretty/pretty.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/kr/pretty/zero.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/kr/pty/License" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/kr/pty/doc.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/kr/pty/ioctl.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/kr/pty/ioctl_bsd.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/kr/pty/pty_darwin.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/kr/pty/pty_dragonfly.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/kr/pty/pty_freebsd.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/kr/pty/pty_linux.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/kr/pty/pty_unsupported.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/kr/pty/run.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/kr/pty/types.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/kr/pty/types_dragonfly.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/kr/pty/types_freebsd.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/kr/pty/util.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/kr/pty/ztypes_386.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/kr/pty/ztypes_amd64.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/kr/pty/ztypes_arm.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/kr/pty/ztypes_arm64.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/kr/pty/ztypes_dragonfly_amd64.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/kr/pty/ztypes_freebsd_386.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/kr/pty/ztypes_freebsd_amd64.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/kr/pty/ztypes_freebsd_arm.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/kr/pty/ztypes_mipsx.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/kr/pty/ztypes_ppc64.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/kr/pty/ztypes_ppc64le.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/kr/pty/ztypes_s390x.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/kr/text/License" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/kr/text/cmd/agg/doc.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/kr/text/cmd/agg/main.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/kr/text/cmd/agg/num.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/kr/text/cmd/agg/string.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/kr/text/colwriter/column.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/kr/text/colwriter/column_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/kr/text/doc.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/kr/text/indent.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/kr/text/indent_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/kr/text/mc/mc.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/kr/text/wrap.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/kr/text/wrap_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/maraino/go-mock/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/maraino/go-mock/example/simple.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/maraino/go-mock/mock.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/maraino/go-mock/mock_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/stretchr/testify/assert/LICENCE.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/stretchr/testify/assert/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/stretchr/testify/assert/assertion_forward.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/stretchr/testify/assert/assertions.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/stretchr/testify/assert/doc.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/stretchr/testify/assert/errors.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/stretchr/testify/assert/forward_assertions.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/stretchr/testify/assert/http_assertions.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/stretchr/testify/mock/LICENCE.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/stretchr/testify/mock/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/stretchr/testify/mock/doc.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/stretchr/testify/mock/mock.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/stretchr/testify/vendor/github.com/davecgh/go-spew/spew/LICENCE.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/stretchr/testify/vendor/github.com/davecgh/go-spew/spew/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/stretchr/testify/vendor/github.com/davecgh/go-spew/spew/bypass.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/stretchr/testify/vendor/github.com/davecgh/go-spew/spew/bypasssafe.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/stretchr/testify/vendor/github.com/davecgh/go-spew/spew/common.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/stretchr/testify/vendor/github.com/davecgh/go-spew/spew/config.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/stretchr/testify/vendor/github.com/davecgh/go-spew/spew/doc.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/stretchr/testify/vendor/github.com/davecgh/go-spew/spew/dump.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/stretchr/testify/vendor/github.com/davecgh/go-spew/spew/format.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/stretchr/testify/vendor/github.com/davecgh/go-spew/spew/spew.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/stretchr/testify/vendor/github.com/pmezard/go-difflib/difflib/LICENCE.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/stretchr/testify/vendor/github.com/pmezard/go-difflib/difflib/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/stretchr/testify/vendor/github.com/pmezard/go-difflib/difflib/difflib.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/stretchr/testify/vendor/github.com/stretchr/objx/LICENCE.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/stretchr/testify/vendor/github.com/stretchr/objx/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/stretchr/testify/vendor/github.com/stretchr/objx/accessors.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/stretchr/testify/vendor/github.com/stretchr/objx/constants.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/stretchr/testify/vendor/github.com/stretchr/objx/conversions.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/stretchr/testify/vendor/github.com/stretchr/objx/doc.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/stretchr/testify/vendor/github.com/stretchr/objx/map.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/stretchr/testify/vendor/github.com/stretchr/objx/mutations.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/stretchr/testify/vendor/github.com/stretchr/objx/security.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/stretchr/testify/vendor/github.com/stretchr/objx/tests.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/stretchr/testify/vendor/github.com/stretchr/objx/type_specific_codegen.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/github.com/stretchr/testify/vendor/github.com/stretchr/objx/value.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mock-example/vendor/manifest" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -153,8 +23,8 @@
       <file leaf-file-name="interview.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mock-example/interview.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="24" column="41" lean-forward="true" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+            <state relative-caret-position="624">
+              <caret line="24" column="41" lean-forward="false" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
               <folding>
                 <element signature="e#21#33#0" expanded="true" />
               </folding>
@@ -162,12 +32,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <first_editor relative-caret-position="130">
+                <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -180,7 +50,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="26">
-                <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+                <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -191,7 +61,7 @@
       <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/encoding-formats/avro/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-840">
+            <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -211,7 +81,7 @@
       <file leaf-file-name="adressbook.proto" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/encoding-formats/protocol-buffers/adressbook.proto">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-191">
+            <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -221,7 +91,7 @@
       <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/encoding-formats/strings/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1638">
+            <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -241,10 +111,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/encoding-formats/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-892">
+            <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -277,6 +147,7 @@
         <option value="$PROJECT_DIR$/mock-example/moraine-go-mock/interview_test.go" />
         <option value="$PROJECT_DIR$/mock-example/interview.go" />
         <option value="$PROJECT_DIR$/mock-example/README_tr.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -313,6 +184,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -352,8 +225,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -493,12 +364,12 @@
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30091184" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.506079" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30091184" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -522,11 +393,26 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/mock-example/questioner.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" column="59" lean-forward="false" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/encoding-formats/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mock-example/answerer.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="78">
           <caret line="3" column="5" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -534,9 +420,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
           <caret line="11" column="57" lean-forward="false" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
-          <folding>
-            <element signature="e#15#114#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -544,9 +427,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#23#101#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -554,7 +434,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
           <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -562,9 +441,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
           <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-          <folding>
-            <element signature="e#15#56#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -572,9 +448,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2028">
           <caret line="84" column="39" lean-forward="false" selection-start-line="84" selection-start-column="39" selection-end-line="84" selection-end-column="39" />
-          <folding>
-            <element signature="e#23#247#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -582,7 +455,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
           <caret line="8" column="25" lean-forward="false" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -598,9 +470,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1898">
           <caret line="79" column="40" lean-forward="false" selection-start-line="79" selection-start-column="40" selection-end-line="79" selection-end-column="40" />
-          <folding>
-            <element signature="e#17#244#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -618,7 +487,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -626,9 +494,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#23#101#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -643,9 +508,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="52">
           <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          <folding>
-            <element signature="e#23#247#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -653,7 +515,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
           <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -668,9 +529,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#17#244#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -696,7 +554,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -704,7 +561,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -802,9 +658,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
           <caret line="11" column="57" lean-forward="false" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
-          <folding>
-            <element signature="e#15#114#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -812,9 +665,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#23#101#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -822,7 +672,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
           <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -830,9 +679,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
           <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-          <folding>
-            <element signature="e#15#56#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -840,9 +686,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2028">
           <caret line="84" column="39" lean-forward="false" selection-start-line="84" selection-start-column="39" selection-end-line="84" selection-end-column="39" />
-          <folding>
-            <element signature="e#23#247#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -850,7 +693,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
           <caret line="8" column="25" lean-forward="false" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -858,9 +700,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1898">
           <caret line="79" column="40" lean-forward="false" selection-start-line="79" selection-start-column="40" selection-end-line="79" selection-end-column="40" />
-          <folding>
-            <element signature="e#17#244#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -868,7 +707,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="78">
           <caret line="3" column="5" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -882,22 +720,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mock-example/interview.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="24" column="41" lean-forward="true" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+        <state relative-caret-position="624">
+          <caret line="24" column="41" lean-forward="false" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
           <folding>
             <element signature="e#21#33#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -905,7 +732,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="26">
-            <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
@@ -914,7 +741,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/encoding-formats/avro/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-840">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -930,7 +757,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/encoding-formats/protocol-buffers/adressbook.proto">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-191">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -938,7 +765,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/encoding-formats/strings/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1638">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/encoding-formats/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -955,11 +790,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/encoding-formats/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-892">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="130">
+            <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
